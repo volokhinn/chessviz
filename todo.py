@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import ttk
 import sqlite3 as lite
 import datetime
+from tkinter import messagebox
 
 ###################################################################
 ####################Графическая оболочка###########################
